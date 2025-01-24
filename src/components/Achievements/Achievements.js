@@ -3,9 +3,9 @@ import { Container } from "react-bootstrap";
 import Particle from "../Particle"; 
 import "./Achievements.css"; 
 
-import certificateImage1 from 'C:\\Users\\user\\Downloads\\Portfolio-master\\Portfolio-master\\src\\Assets\\Projects\\8.png'; 
-import certificateImage2 from 'C:\\Users\\user\\Downloads\\Portfolio-master\\Portfolio-master\\src\\Assets\\Projects\\Me.PNG';
-import certificateImage3 from 'C:\\Users\\user\\Downloads\\Portfolio-master\\Portfolio-master\\src\\Assets\\Projects\\232.png';
+import certificateImage1 from '../../Assets/Projects/8.png'; 
+import certificateImage2 from '../../Assets/Projects/Me.PNG';
+import certificateImage3 from '../../Assets/Projects/232.png';
 
 const achievementsDetails = [
   {
